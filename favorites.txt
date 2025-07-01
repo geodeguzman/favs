@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 burger
 steak
 chicken na luto ng baby ko
+=======
+Spider-man across the spider verse
+My ex and whys
+Pirates of the Caribbean
+>>>>>>> movies
